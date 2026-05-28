@@ -1,12 +1,12 @@
 # 🌐 Mert DANIŞMAN — Kişisel Portfolyo Websitesi
 
 <div align="center">
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 <img width="3420" height="1966" alt="image" src="https://github.com/user-attachments/assets/7912f018-6c0c-41b8-be5e-f0c0034cf632" />
 
 
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
