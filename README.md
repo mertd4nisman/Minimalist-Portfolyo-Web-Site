@@ -22,7 +22,7 @@ Merhaba! Bu repo, kişisel portfolyo websitemin kaynak kodunu içermektedir. Pyt
 
 - 🌑 **Dark Mode Tasarım** — Göz yormayan koyu tema
 - 📱 **Responsive** — Tüm cihaz boyutlarına uyumlu
-- ⚡ **Hızlı ve Hafif** — Saf HTML/CSS/JS ile geliştirildi
+- ⚡ **Hızlı ve Hafif** — Saf HTML/CSS ile geliştirildi
 - 🗂️ **Proje Kartları** — Her projeye ait teknoloji etiketleri ve GitHub linkleri
 - 🎨 **Minimalist UI** — Sade ve modern arayüz
 
